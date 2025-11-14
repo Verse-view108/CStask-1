@@ -33,6 +33,3 @@ Task to develop network reconnaissance skills and assess service exposure on my 
 ## Recommendations
 - Escalate 445 to IT.
 - Monitor unknown ports.
-
-## Acknowledgments
-- Guided by Grok (xAI).
